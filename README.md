@@ -24,8 +24,8 @@ To rebuild a laptop with Windows 10 or Windows 11, configure system settings, an
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Boot from USB: <br/>
-<img src="IMG_3495.jpg" height="80%" width="80%" alt="Identifying Target Device "/>
+1. Boot from USB: <br/>
+<img src="1.jpg" height="80%" width="80%" alt="Identifying Target Device "/>
 <br />
 <br />
   <b>Insert the pre-configured bootable USB containing Windows 10/11 deployment files.
@@ -33,30 +33,30 @@ Boot from USB: <br/>
 Access the boot menu and select the USB drive.
 
 Enter the administrator password if prompted to proceed.
+<br />
+<br />
 
 </b> 
-Select Operating System:  <br/>
-<img src="IMG_3496.jpg" height="80%" width="80%" alt="Adding devices"/>
-<br />
-<br />
+2.Select Operating System:  <br/>
+
 <b>Choose between Windows 10 or Windows 11 based on the organizational requirement or user need.
 
 
 
-
-Input INC Number:: <br/>
-<img src="IMG_3497.jpg" height="80%" width="80%" alt="NY Desk Collection"/>
+<br />
+<br />
+3.Input INC Number:: <br/>
+<img src="2.jpg" height="80%" width="80%" alt="NY Desk Collection"/>
 <br />
 <br />
  <b>Enter the INC (Incident) number to associate the rebuild with the service ticket or task assigned through the IT service management platform.
 
 
-
-</b>
-Enter Asset Information and Domain Details:
-  <br/>
-<img src="IMG_3498.jpg" height="80%" width="80%" alt="Software Deployment"/>
 <br />
+<br />
+</b>
+4.Enter Asset Information and Domain Details:
+  <br/>
 <br />
  <b>Input the Asset Tag of the machine.
 
@@ -65,18 +65,16 @@ Select the appropriate domain and Organizational Unit (OU) to ensure the device 
 <br />
 
 </b>
-Install Citrix Workspace::
+5.Install Citrix Workspace::
   <br/>
-<img src="IMG_3498.jpg" height="80%" width="80%" alt="Software Deployment"/>
-<br />
-<br />
+<img src="5.jpg" height="80%" width="80%" alt="Software Deployment"/>
  <b>Download and install Citrix Workspace to allow secure access to virtual desktops and enterprise applications.</b> 
 <br />
 <br />
  </b>
-Finalize and Monitor Installation:
+6.Finalize and Monitor Installation:
   <br/>
-<img src="IMG_3498.jpg" height="80%" width="80%" alt="Software Deployment"/>
+<img src="6.jpg" height="80%" width="80%" alt="Software Deployment"/>
 <br />
 <br />
  <b>Complete the setup and allow the system to finish all updates and installations.
